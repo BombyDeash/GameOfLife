@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.root{
+    -fx-font-family: 'Press Start 2P', cursive;
+}
+.button {
+    -fx-font-size: 12;
+    -fx-background-radius: 22;
+    -fx-background-color: #000000;
+    -fx-text-fill: #ffff;
+
+}
+.radio-button{
+    -fx-font-size: 8;
+}
+.button:hover {
+    -fx-background-color: #ffff;
+    -fx-text-fill: #000000;
+}
+.label{
+
+    -fx-text-fill: #ffff;
+}
+
+.slider.axis {
+    -fx-tick-label-fill: #000000;
+    -fx-text-fill: #000000;
+
+
+}
+.slider.thumb{
+    -fx-background-color: #000000;
+}

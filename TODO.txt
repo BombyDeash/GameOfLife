@@ -1,0 +1,6 @@
+//TODO Buttons beter verwerken
+//TODO Uiterlijk aantrekkelijker maken: cursor aanpassen, kleuren aanpassen, icoontje aanpassen, background color aanpassen,....
+//TODO Menu implementeren
+//TODO Resources aanmaken voor afbeeldingen / Video -> New Image("...")
+
+
